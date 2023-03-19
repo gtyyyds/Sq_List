@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "动态顺序表应用", "动态顺序表应用\动态顺序表应用.vcxproj", "{6DEE60B8-BB3D-44F7-97C2-1EF2F52AA85E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DEE60B8-BB3D-44F7-97C2-1EF2F52AA85E}.Debug|x64.ActiveCfg = Debug|x64
+		{6DEE60B8-BB3D-44F7-97C2-1EF2F52AA85E}.Debug|x64.Build.0 = Debug|x64
+		{6DEE60B8-BB3D-44F7-97C2-1EF2F52AA85E}.Debug|x86.ActiveCfg = Debug|Win32
+		{6DEE60B8-BB3D-44F7-97C2-1EF2F52AA85E}.Debug|x86.Build.0 = Debug|Win32
+		{6DEE60B8-BB3D-44F7-97C2-1EF2F52AA85E}.Release|x64.ActiveCfg = Release|x64
+		{6DEE60B8-BB3D-44F7-97C2-1EF2F52AA85E}.Release|x64.Build.0 = Release|x64
+		{6DEE60B8-BB3D-44F7-97C2-1EF2F52AA85E}.Release|x86.ActiveCfg = Release|Win32
+		{6DEE60B8-BB3D-44F7-97C2-1EF2F52AA85E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E96438E-28F0-473E-AF7E-43C4D575A091}
+	EndGlobalSection
+EndGlobal
